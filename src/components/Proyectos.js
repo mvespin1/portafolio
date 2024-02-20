@@ -40,7 +40,7 @@ const Proyectos = () => {
     {
       titulo: 'Proyecto 1',
       descripcion: 'Descripción del Proyecto 1. Puedes agregar más detalles aquí.',
-      imagen: 'project1',
+      imagen: project1,
       enlace: 'enlace a más detalles',
     },
     {
