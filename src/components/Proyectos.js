@@ -1,6 +1,7 @@
 // Proyectos.js
 import React from 'react';
 import { Container, Typography, Card, CardContent, CardMedia, Button } from '@mui/material';
+import project1 from '../images/project1.jpg';
 
 const proyectosContainerStyle = {
   display: 'flex',
@@ -39,7 +40,7 @@ const Proyectos = () => {
     {
       titulo: 'Proyecto 1',
       descripcion: 'Descripción del Proyecto 1. Puedes agregar más detalles aquí.',
-      imagen: 'url de la imagen',
+      imagen: 'project1',
       enlace: 'enlace a más detalles',
     },
     {
