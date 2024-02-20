@@ -1,7 +1,7 @@
 // Proyectos.js
 import React from 'react';
 import { Container, Typography, Card, CardContent, CardMedia, Button } from '@mui/material';
-import project1 from '../images/project1.jpg';
+import project1 from '../images/jquery.png';
 
 const proyectosContainerStyle = {
   display: 'flex',
